@@ -1,11 +1,26 @@
 {
   "name": "USDT.z",
+  "website": "https://usdtz.com/",
+  "description": "Token Tether USD Bridged ZED20",
+  "explorer": "https://bscscan.com/token/0x4B89c88E57793B20321D8468Aa447562268BDdb4",
+  "type": "ERC20",
   "symbol": "USDT.z",
   "decimals": 18,
-  "description": "Token Tether USD Bridged ZED20",
-  "address": "0x4DC9d765D089CDF261EaC3C5761e190c281D1DB4",
+  "status": "active",
+  "id": "0x4DC9d765D089CDF261EaC3C5761e190c281D1DB4",
   "chain": "BSC",
   "chainId": 56,
-  "website": "",
-  "social": {}
+  "links": [
+    {
+      "name": "twitter",
+      "url": "https://t.me/USDtezos"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/USDtezos"
+    }
+  ],
+  "tags": [
+    "defi"
+  ]
 }
