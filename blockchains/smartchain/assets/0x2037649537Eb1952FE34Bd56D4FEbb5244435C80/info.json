@@ -1,0 +1,11 @@
+{
+  "name": "USDT.z",
+  "symbol": "USDT.z",
+  "decimals": 18,
+  "description": "Token Tether USD Bridged ZED20",
+  "address": "0x4DC9d765D089CDF261EaC3C5761e190c281D1DB4",
+  "chain": "BSC",
+  "chainId": 56,
+  "website": "",
+  "social": {}
+}
