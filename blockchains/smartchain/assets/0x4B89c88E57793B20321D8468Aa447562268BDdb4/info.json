@@ -1,24 +1,11 @@
 {
-  "name": "USDT.z",
-  "website": "https://usdtz.com/",
-  "description": "Token Tether USD Bridged ZED20",
-  "explorer": "https://bscscan.com/token/0x4B89c88E57793B20321D8468Aa447562268BDdb4",
-  "type": "BEP20",
-  "symbol": "USDT.z",
-  "decimals": 18,
-  "status": "active",
-  "id": "0x4B89c88E57793B20321D8468Aa447562268BDdb4",
-  "links": [
-    {
-      "name": "twitter",
-      "url": "https://x.com/usdtz"
-    },
-    {
-      "name": "telegram",
-      "url": "https://t.me/USDtezos"
-    }
-  ],
-  "tags": [
-    "stablecoin"
-  ]
+    "name": "USDT.z",
+    "type": "BEP20",
+    "symbol": "USDT.z",
+    "decimals": 18,
+    "description": "Token Tether USD Bridged ZED20",
+    "website": "https://bscscan.com/token/0x4B89c88E57793B20321D8468Aa447562268BDdb4",
+    "explorer": "https://bscscan.com/token/0x4B89c88E57793B20321D8468Aa447562268BDdb4",
+    "status": "active",
+    "id": "0x4B89c88E57793B20321D8468Aa447562268BDdb4"
 }
